@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2023-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2023-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Nijar",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-04-03T07:47:59.202Z",
+      "notes": "",
+      "position": {
+        "lat": "36.967508314568164",
+        "lng": "-2.13128394200588"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Bhopal",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-06-28T20:34:35.223Z",
+      "notes": "",
+      "position": {
+        "lat": "23.684774166883756",
+        "lng": "77.38769531250001"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Siyana",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-06-28T20:35:28.318Z",
+      "notes": "",
+      "position": {
+        "lat": "28.671310915880834",
+        "lng": "77.95898437500001"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Lucknow",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-07-02T18:22:16.687Z",
+      "notes": "",
+      "position": {
+        "lat": "26.81373849111241",
+        "lng": "80.90826055042727"
+      },
+      "id": 98443201
+    }
+  ]
+}
